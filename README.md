@@ -1,1 +1,1 @@
-|Django Greet Project
+Django Greet Project
